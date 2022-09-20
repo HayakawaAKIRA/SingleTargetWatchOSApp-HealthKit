@@ -1,5 +1,9 @@
 # Single target WatchOS app project within healthkit access
 
+Apple Developer forums
+
+https://developer.apple.com/forums/thread/715238
+
 ## Issue
 
 The Watch App and iPhone App health care permissions are not synchronized.
